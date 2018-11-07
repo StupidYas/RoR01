@@ -3,3 +3,4 @@
 2018-11-07 16:07:53.811 CET [49539] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
 2018-11-07 16:07:53.824 CET [49540] LOG:  database system was shut down at 2018-11-07 16:07:53 CET
 2018-11-07 16:07:53.835 CET [49539] LOG:  database system is ready to accept connections
+2018-11-07 17:08:07.320 CET [49545] LOG:  using stale statistics instead of current ones because stats collector is not responding
